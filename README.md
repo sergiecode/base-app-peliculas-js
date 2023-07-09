@@ -1,3 +1,7 @@
+## Link al curso completo de Javascript en Youtube:
+[VIDEO CURSO GRATIS COMPLETO: JavaScript Desde Cero por Sergie Code](https://youtu.be/N8Xt5rP_DUo)
+
+
 # Tutorial de búsqueda de películas con JavaScript
 
 Link para ver resultado: [BUSCADOR PELICULAS FINALIZADO](https://buscador-peliculas-javascript.netlify.app/)
